@@ -8,7 +8,7 @@ class Piece:
         self.rank=rank
         self.file=file
 
-#defining pieces
+#defining pieces and setting up initial board
 wp1=Piece('Pawn','White','a','2')
 wp2=Piece('Pawn','White','b','2')
 wp3=Piece('Pawn','White','c','2')
